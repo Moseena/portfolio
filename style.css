@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP._vEwlRkrZU48LLBzU_hHdQHaE8&pid=Api&P=0&h=180'); /* Path to your image */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+}
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+section {
+    background-color: #D3D3D3;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+header {
+    background-color: #9370DB;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    margin: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
